@@ -44,10 +44,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iEQgsDnEJGCTvPg24EWj-11" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="180" y="200" width="40" height="100" as="geometry" />
+          <mxGeometry x="190" y="200" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iEQgsDnEJGCTvPg24EWj-12" value="商家用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="380" y="200" width="40" height="100" as="geometry" />
+          <mxGeometry x="390" y="200" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iEQgsDnEJGCTvPg24EWj-13" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="590" y="200" width="20" height="100" as="geometry" />
