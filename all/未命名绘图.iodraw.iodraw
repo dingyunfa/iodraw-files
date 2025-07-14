@@ -220,14 +220,14 @@
         </mxCell>
         <mxCell id="iEQgsDnEJGCTvPg24EWj-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="669.41" y="330" as="sourcePoint" />
-            <mxPoint x="669.41" y="300" as="targetPoint" />
+            <mxPoint x="649.41" y="330" as="sourcePoint" />
+            <mxPoint x="649.41" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iEQgsDnEJGCTvPg24EWj-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="699.41" y="330" as="sourcePoint" />
-            <mxPoint x="699.41" y="300" as="targetPoint" />
+            <mxPoint x="679.41" y="330" as="sourcePoint" />
+            <mxPoint x="679.41" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iEQgsDnEJGCTvPg24EWj-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -300,7 +300,7 @@
           <mxGeometry x="640" y="330" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iEQgsDnEJGCTvPg24EWj-75" value="评论管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="690" y="330" width="20" height="100" as="geometry" />
+          <mxGeometry x="670" y="330" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iEQgsDnEJGCTvPg24EWj-76" value="网站公告管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="730" y="330" width="20" height="100" as="geometry" />
