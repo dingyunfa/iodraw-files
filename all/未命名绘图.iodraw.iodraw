@@ -202,12 +202,6 @@
             <mxPoint x="420" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iEQgsDnEJGCTvPg24EWj-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="330" as="sourcePoint" />
-            <mxPoint x="440" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iEQgsDnEJGCTvPg24EWj-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="330" as="sourcePoint" />
@@ -319,6 +313,9 @@
         </mxCell>
         <mxCell id="iEQgsDnEJGCTvPg24EWj-65" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="393" y="330" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iEQgsDnEJGCTvPg24EWj-66" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="420" y="330" width="20" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
