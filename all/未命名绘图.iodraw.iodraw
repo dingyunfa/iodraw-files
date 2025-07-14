@@ -115,14 +115,14 @@
             <mxPoint x="60" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iEQgsDnEJGCTvPg24EWj-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="iEQgsDnEJGCTvPg24EWj-25">
+        <mxCell id="iEQgsDnEJGCTvPg24EWj-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="330" as="sourcePoint" />
-            <mxPoint x="100" y="300" as="targetPoint" />
+            <mxPoint x="100" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iEQgsDnEJGCTvPg24EWj-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="iEQgsDnEJGCTvPg24EWj-26" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="20" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
