@@ -7,16 +7,6 @@
         <mxCell id="iEQgsDnEJGCTvPg24EWj-1" value="零食电商系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iEQgsDnEJGCTvPg24EWj-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iEQgsDnEJGCTvPg24EWj-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="400" as="sourcePoint" />
-            <mxPoint x="240" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="170" />
-              <mxPoint x="240" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iEQgsDnEJGCTvPg24EWj-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="399.5" y="170" as="sourcePoint" />
@@ -28,9 +18,7 @@
             <mxPoint x="400" y="170" as="sourcePoint" />
             <mxPoint x="560" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="150" />
               <mxPoint x="560" y="170" />
-              <mxPoint x="520" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
