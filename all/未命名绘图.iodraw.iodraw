@@ -308,10 +308,10 @@
         <mxCell id="iEQgsDnEJGCTvPg24EWj-65" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="390" y="330" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iEQgsDnEJGCTvPg24EWj-66" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="iEQgsDnEJGCTvPg24EWj-66" value="评论管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="420" y="330" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iEQgsDnEJGCTvPg24EWj-67" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="iEQgsDnEJGCTvPg24EWj-67" value="促销活动管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="460" y="330" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iEQgsDnEJGCTvPg24EWj-68" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
