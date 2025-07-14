@@ -43,8 +43,8 @@
             <mxPoint x="399.5" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iEQgsDnEJGCTvPg24EWj-11" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="180" y="200" width="40" height="120" as="geometry" />
+        <mxCell id="iEQgsDnEJGCTvPg24EWj-11" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iEQgsDnEJGCTvPg24EWj-12" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="380" y="200" width="40" height="100" as="geometry" />
